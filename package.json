@@ -1,5 +1,5 @@
 {
-  "name": "tuio server",
+  "name": "tuioServer",
   "version": "1.0.0",
   "author": "WaterTian",
   "main": "src/Tuio.js",
