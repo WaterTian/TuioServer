@@ -1,0 +1,14 @@
+{
+  "name": "tuio server",
+  "version": "1.0.0",
+  "author": "WaterTian",
+  "main": "src/Tuio.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nomve/Tuio.js"
+  },
+  "dependencies": {
+    "tuio-extended": "^1.0.0"
+  },
+  "devDependencies": {}
+}
